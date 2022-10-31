@@ -1,5 +1,5 @@
 ## [[Tax Assistance]]
 ## Tax Diagnostic Review [[Tax Assistance]]
-> ### Description
->> Membantu Perusahaan memahami aspek pajak terkait dengan transaksi pada tahun pajak, melakukan penghitungan ulang potensi pajak yang mungkin terjadi, dan memberikan rekomendasi agar perusahaan dapat meminimalkan potensi pajak yang mungkin terjadi.
->> Tahapan kerja jasa telaah pajak ini meliputi tahapan persiapan pendampingan dengan menyiapkan dokumen dan mengumpulkan data-data yang dibutuhkan untuk penelaahan pajak,  kemudian tahapan pekerjaan lapangan yang meliputi proses uji kepatuhan wajib pajak terhadap ketentuan pajak yang berlaku hingga hingga tahapan menghitung ulang potensi pajak yang seharusnya masih terutang, dan tahapan akhir yaitu tahap pelaporan yang meliputi proses penyusunan draft laporan telaah pajak hingga finalisasi laporan telaah perpajakan.  
+### Description
+> Membantu Perusahaan memahami aspek pajak terkait dengan transaksi pada tahun pajak, melakukan penghitungan ulang potensi pajak yang mungkin terjadi, dan memberikan rekomendasi agar perusahaan dapat meminimalkan potensi pajak yang mungkin terjadi.
+> Tahapan kerja jasa telaah pajak ini meliputi tahapan persiapan pendampingan dengan menyiapkan dokumen dan mengumpulkan data-data yang dibutuhkan untuk penelaahan pajak,  kemudian tahapan pekerjaan lapangan yang meliputi proses uji kepatuhan wajib pajak terhadap ketentuan pajak yang berlaku hingga hingga tahapan menghitung ulang potensi pajak yang seharusnya masih terutang, dan tahapan akhir yaitu tahap pelaporan yang meliputi proses penyusunan draft laporan telaah pajak hingga finalisasi laporan telaah perpajakan.  
