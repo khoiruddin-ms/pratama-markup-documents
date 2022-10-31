@@ -1,5 +1,5 @@
 # Indomitra Pratama Konsultan Services
 # ID
-- [Konsultasi](blob/main/consulting-ID.md)
+- [Konsultasi](/Consulting-ID.md)
 # EN
-- [Konsulting](blob/main/Consulting-ID.md)
+- [Konsulting](/Consulting-EN.md)
