@@ -1,8 +1,7 @@
 # Information For Pratamaindomitra.com
 
-=======================================================
 ## [[Tax Consulting/Compliance Services]]
-=======================================================
+
 ### History - ID
 > Terbentuk karena minimnya pemahaman pelaku bisnis mengenai implikasi transaksi yang dilakukan terhadap pajak, dengan harapan klien dapat memperoleh pemahaman yang lebih mendalam terkait implikasi transaksi yang dijalankan.
 ### History - EN
