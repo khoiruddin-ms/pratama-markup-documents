@@ -1,12 +1,12 @@
 # Information For Pratamaindomitra.com
 
-## [[Tax Consulting/Compliance Services]]
 
+## [[Tax Consulting/Compliance Services]]
 ### History - ID
 > Terbentuk karena minimnya pemahaman pelaku bisnis mengenai implikasi transaksi yang dilakukan terhadap pajak, dengan harapan klien dapat memperoleh pemahaman yang lebih mendalam terkait implikasi transaksi yang dijalankan.
 ### History - EN
 > The lack of understanding of business actors regarding the implications of transactions carried out on taxes is the background why this service established, with the hope that clients can gain a deeper understanding of the implications of transactions carried out.
-=======================================================
+
 ## Konsultasi Perpajakan / Tax Consulting [[Tax Consulting/Compliance Services]]
 ### Description - ID
 - #### Konsultasi Pajak Bulanan
@@ -23,14 +23,13 @@
 - #### Important Case Consultuing
 > Designated for Clients who require discussion and advisory on specific tax issues faced by the client, with output in the form of verbal advice and written analysis.
 
-=======================================================
 ## Perencanaan Perpajakan - Tax Planning [[Tax Consulting/Compliance Services]]
 ### Description - ID
 > Ditujukan untuk membantu wajib pajak menyusun program perencanaan perpajakan agar tidak hanya dapat mencapai efisiensi pajak, namun juga mengurangi risiko sanksi/denda. Kebijakan perpajakan yang disusun akan dibuat selaras dengan kebijakan keuangan wajib pajak. Dengan demikian, jasa perencanaan pajak akan membantu wajib pajak mengelola dan merencanakan perpajakannya dengan efektif sehingga perusahaan memperoleh penghematan pajak yang optimal dan dapat menjalankan bisnis dengan aman dan tetap patuh pada peraturan perpajakan yang berlaku. 
 ### Description - EN
 > Designed to help taxpayers develop tax planning strategies to not only achieve tax efficiency, but also reduce the risk of sanctions/fines. The tax policy prepared will be made in accordance with the taxpayer's financial policy. Thus, tax planning services shall help taxpayers manage and plan their taxation effectively so that the company achieves optimal tax savings and can safely operate its business while still maintaining compliance with applicable tax regulations. 
 
-=======================================================
+
 ## Tax Advisory [[Tax Consulting/Compliance Services]]
 ### Description - ID
 > Membantu para wajib pajak dalam memecahkan permasalahan pajak yang sedang dihadapi sehingga mereka mendapatkan solusi sesuai dengan ketentuan dan perundang-undangan yang berlaku.
@@ -43,60 +42,52 @@
 The advice can also be used as guidance by taxpayers as decision-making by company management.
 > As for the SP2DK advice received by the taxpayer, in this case consultants may assist in arranging a clarification letter in accordance with the supporting documents in order for the tax office to obtain an adequate and comprehensive explanation. If calculation verification is needed for these data, we will also prepare calculation results, then cooperate with our compliance team to accommodate the matters required by the tax office.
 
-=======================================================
+
 ## Tax Manual/SOP Service [[Tax Consulting/Compliance Services]]
 ### Description - ID
 > Membantu mendampingi wajib pajak menyusun pedoman SOP perpajakan agar manajemen perpajakan menjadi efektif di masa yang akan datang. Dengan berpedoman pada SOP tersebut, wajib pajak akan mendapatkan pedoman yang jelas sehingga dapat melaksanakan kewajiban perpajakannya berdasarkan peraturan dan perundang-undangan yang berlaku.
 ### Description - EN
 > Assist taxpayers in preparing tax Standard Operating Procedure (SOP) guidelines so that tax management becomes effective in the future. Guided by the Standard Operating Procedure (SOP), taxpayers will get clear guidelines so that they can carry out their tax obligations based on applicable laws and regulations.
 
-=======================================================
+
 ## Tax Compliance Service [[Tax Consulting/Compliance Services]]
 ### Description - ID
 > Menyediakan penyusunan, pelaporan, pembetulan, dan telaah SPT PPh Badan, SPT Masa PPh/PPN dan SPT Orang Pribadi.
 ### Description - EN
 > Provide preparation, reporting, correction, and review of Corporate Income Tax Return, Periodic Income Tax/VAT Return and Individual Income Tax Return.
 
-
-=======================================================
 ## Tax Administration Services [[Tax Consulting/Compliance Services]]
 ### Description - ID
 > menyediakan pengurusan Nomor Pokok Wajib Pajak (NPWP), Electronic Filing Identification Number, (EFIN) Penghasilan Kena Pajak (PKP), dan Badan Penyelenggara Jaminan Sosial (BPJS).
 ### Description - EN
 > provides management of Taxpayer Identification Number (NPWP), Electronic Filing Identification Number (EFIN), Taxable Income (PKP), and BPJS.
 
-
-=======================================================
 ## Annual Tax Return Services [[Tax Consulting/Compliance Services]]
 ### Description - ID
 > Mendampingi wajib pajak dalam Menyusun laporan SPT mulai dari proses pengumpulan data, hingga pembuatan draf SPT yang nantinya akan dilaporkan oleh Wajib Pajak kepada KPP.
 ### Description - EN
 > Assist taxpayers in preparing the Annual Tax Return report starting from the data collection process, to the drafting of the Annual Tax Return which will later be reported by the taxpayer to the Tax Office.
 
-=======================================================
 ## Tax Return (SPT) Correction Service [[Tax Consulting/Compliance Services]]
 ### Description - ID
 > Membantu Wajib Pajak dalam melakukan perhitungan ulang terhadap pajak yang telah dilaporkan di dalam SPT.
 ### Description - EN
 > Assist taxpayers recalculating the tax that has been reported in the tax return.
 
-=======================================================
 ## Tax Return (SPT) Review Service [[Tax Consulting/Compliance Services]]
 ### Description - ID
 > Membantu Wajib Pajak dalam melakukan review dan pembetulan terhadap pajak yang telah dilaporkan di dalam SPT.
 ### Description - EN
 > Assist taxpayers reviewing and correcting tax return report.
 
-=======================================================
 ## SP2DK Consultation services [[Tax Consulting/Compliance Services]]
 ### Description - ID
 > Membantu wajib pajak dalam menyiapkan surat klarifikasi sesuai bukti pendukung untuk menanggapi Surat Permintaan Penjelasan atas Data dan/atau Keterangan yang diterima wajib  pajak dari KPP, sehingga KPP mendapatkan penjelasan yang memadai dan komprehensif.
 ### Description - EN
 > Assisting taxpayers in preparing clarification letters in accordance with supporting evidence to respond to Explanation Request Letters on Data and/or Information received by taxpayers from the Tax Office, so that the Tax Office obtains adequate and comprehensive explanations.
 
-=======================================================
 ## [[Tax Assistance]]
-=======================================================
+
 ## Tax Diagnostic Review [[Tax Assistance]]
 ### Description - ID
 > Membantu Perusahaan memahami aspek pajak terkait dengan transaksi pada tahun pajak, melakukan penghitungan ulang potensi pajak yang mungkin terjadi, dan memberikan rekomendasi agar perusahaan dapat meminimalkan potensi pajak yang mungkin terjadi.
