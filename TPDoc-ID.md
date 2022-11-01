@@ -1,3 +1,4 @@
+[English](/TPDoc-EN.md)
 # Transfer Pricing Documentation (TP Doc)
 ## Background
 > Jasa penyusunan Transfer Pricing Documentation termasuk Strategi Penyusunan TP Doc ini dimaksudkan untuk membantu klien dalam berurusan dengan Transfer Pricing. Kemudian memberikan masukan pada dokumen dan strategi yang diperlukan untuk mencegah kerugian dari transaksi pihak terkait dan skenario transfer pricing
