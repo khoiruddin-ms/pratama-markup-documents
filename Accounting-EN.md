@@ -1,16 +1,16 @@
 [Indonesian - ID Ver](/Accounting-EN.md)
 # Accounting and Business Advisory 
 ### Background
-> Membantu membimbing client dalam melakukan proses pencatatan, pengumpulan data keuangan, dan pelaporan informasi yang berkaitan dengan keuangan serta arus kas dalam suatu bisnis. Informasi ini nantinya digunakan sebagai dasar dalam membuat keputusan ekonomi.
+> Assist in guiding clients in the process of recording, collecting financial data, and reporting information related to finance and cash flow in a business. This information is later used as a basis for making economic and financial decisions.
 ## Accounting Management Service
-> Dalam rangka menentukan harga suatu produk, dibutuhkan pertimbangan dari berbagai aspek keuangan dan kondisi pasar. Accounting Management Service ditujukan guna memberikan konsultasi mengenai kebijakan harga jual produk agar perusahaan dapat mengambil keputusan dengan tepat.
-> Jasa ini dapat memberikan pengkajian terhadap kelayakan evaluasi internal atas kinerja bagian dalam perusahaan agar klien mendapatkan penilaian terhadap kelayakan kinerja keuangan perusahaan sehingga dapat mengendalikan dan merencanakan keuangan yang tepat di masa yang datang
+> To determine the price of a product, it is necessary to consider various financial aspects and market conditions. Accounting Management Service is intended to provide consultation on product selling price policies so that companies can make the right decisions.
+> This service can provide an assessment of the feasibility of internal evaluation of the inner performance of the company so that clients can get an assessment of the feasibility of the company's financial performance so as to control and plan the right finances in the future.
 ## Financial Accounting
-> Jasa financial accounting ditujukan untuk memberikan pendampingan mengenai penyusunan laporan keuangan yang berkualitas dan memenuhi standar PSAK. Penyususnannya dimulai dari membuat chart of account, desain jurnal, penyajian laporan keuangan, hingga pengungkapannya agar sesuai dengan pedoman standar akuntansi yang berlaku.
-> jasa ini juga menyediakan pengkajian kelayakan kebijakan akuntansi sesuai dengan Pernyataan Standar Akuntansi Keuangan (PSAK) yang relevan. 
-> Selain itu, jasa ini dapat melakukan review atas laporan keuangan internal yang telah dibuat oleh klien agar sesuai dengan pedoman standar akuntansi yang berlaku untuk menimalisasi risiko temuan saat diperiksa oleh Kantor Akuntan Publik (KAP). 
+> Financial accounting services are intended to provide assistance regarding the preparation of quality financial statements that meet the standards of the PSAK (Statement of Financial Accounting Standards). The preparation starts from creating a chart of accounts, journal design, presentation of financial statements, to disclosure in accordance with the guidelines of the applicable accounting standards.
+> This service also provides an assessment of the feasibility of accounting policies in accordance with the relevant Statement of Financial Accounting Standards (PSAK). 
+> In addition, this service can review internal financial statements that have been prepared by clients to comply with applicable accounting standard guidelines to minimise the risk of findings when examined by the Public Accounting Firm (KAP). 
 ## Business Advisory
-> Business Advisory Service akan memberikan pendampingan dalam penyusunan anggaran perusahaan (master budget) beserta semua turunannya agar klien mampu mengukur kinerja bisnis secara keseluruhan, dimulai dari sisi penjualan, operasional, perencanaan, aset, hingga sumber daya manusia. 
-> Jasa Business Advisory Service juga dapat melakukan pengkajian atas kelayakan asumsi dalam perencanaan keuangan (forecasting model) agar klien mendapatkan batas dasar prioritas, tujuan, rencana, anggaran, dan proyeksi keuangan demi terciptanya proses bisnis yang efisien
-> Jasa ini juga menangani kajian/studi atas kelayakan proyek (feasibility study) agar dapat mengidentifikasi potensi masalah, peluang, dan ancaman, sehingga didapatkan penilaian keseluruhan terhadap kelayakan suatu proyek yang akan dijalankan.  
+> Business Advisory Service will provide assistance in the preparation of the company's budget (master budget) and all its derivatives so that clients are able to measure overall business performance, starting from sales, operations, planning, assets, to human resources. 
+> Business Advisory Service can also conduct an assessment of the feasibility of assumptions in financial planning (forecasting model) so that clients get a baseline of priorities, goals, plans, budgets, and financial projections for the creation of efficient business processes.
+> This service also handles a feasibility study in order to identify potential problems, opportunities, and threats, so as to obtain an overall assessment of the feasibility of a project to be carried out.  
 
