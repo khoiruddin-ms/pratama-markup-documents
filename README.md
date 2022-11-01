@@ -7,6 +7,7 @@
 2. [Konsultasi](/Consulting-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S1-Consulting.docx)
 3. [Assistensi](/Assistance-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S2-Assistance.docx)
 4. [Accounting & Business Advisory](/Accounting-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S3-Accounting.docx)
+5. [TP Doc](/TPDoc-ID.md)
 
 ---
 
