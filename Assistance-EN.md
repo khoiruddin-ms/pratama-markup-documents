@@ -7,3 +7,9 @@
 ## Tax Inspection Review
 > Providing audit assistance services helps the company to achieve optimal tax savings/maximised tax refunds by assisting/representing the company in the audit process.
 > Audit assistance services covers several scopes of work: helping to prepare documents to meet tax auditors, explaining and answering auditors' questions, to providing responses and discussing the results of the audit with tax auditors.
+## Tax Objection
+> Tax objection assistance services are intended to assist / represent the company in the objection process and help the company to get optimal tax savings.
+> The consultant will assist taxpayers, preparing from objection letters, necessary documents that must be included, to arguments and liaising taxpayers with the tax office.
+## Tax Appeals
+> Assisting/representing a company in the appeal process at the tax court and assisting the company in obtaining optimal tax savings in the tax court decision.
+> During the appeal process, the Consultant will assist the client in preparing the appeal letter, making a counter-appeal letter, preparing evidence in court to litigate in the Tax Court.
