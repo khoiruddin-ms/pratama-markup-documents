@@ -1,3 +1,4 @@
+[English - EN Ver](/Consulting-EN.md)
 # Tax Consulting/Compliance Services
 ### Background
 > Terbentuk karena minimnya pemahaman pelaku bisnis mengenai implikasi transaksi yang dilakukan terhadap pajak, dengan harapan klien dapat memperoleh pemahaman yang lebih mendalam terkait implikasi transaksi yang dijalankan.

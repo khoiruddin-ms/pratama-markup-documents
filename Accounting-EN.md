@@ -1,7 +1,7 @@
-[English - EN Ver](/Accounting-EN.md)
+[Indonesian - ID Ver](/Accounting-EN.md)
 # Accounting and Business Advisory 
 ### Background
-> Assist in guiding clients in the process of recording, collecting financial data, and reporting information related to finance and cash flow in a business. This information is later used as a basis for making economic decisions.
+> Membantu membimbing client dalam melakukan proses pencatatan, pengumpulan data keuangan, dan pelaporan informasi yang berkaitan dengan keuangan serta arus kas dalam suatu bisnis. Informasi ini nantinya digunakan sebagai dasar dalam membuat keputusan ekonomi.
 ## Accounting Management Service
 > Dalam rangka menentukan harga suatu produk, dibutuhkan pertimbangan dari berbagai aspek keuangan dan kondisi pasar. Accounting Management Service ditujukan guna memberikan konsultasi mengenai kebijakan harga jual produk agar perusahaan dapat mengambil keputusan dengan tepat.
 > Jasa ini dapat memberikan pengkajian terhadap kelayakan evaluasi internal atas kinerja bagian dalam perusahaan agar klien mendapatkan penilaian terhadap kelayakan kinerja keuangan perusahaan sehingga dapat mengendalikan dan merencanakan keuangan yang tepat di masa yang datang

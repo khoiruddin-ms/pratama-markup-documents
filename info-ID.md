@@ -1,3 +1,4 @@
+[English - EN Ver](/info-EN.md)
 # Pratama Indomitra Informations
 > Pratama Indomitra Konsultan atau yang dikenal sebagai "Pratama Indomitra" atau PIK (abv.) didirikan pada tanggal 15 Maret 2010. Pratama Indomitra menyediakan layanan profesional terkait perpajakan kepada klien, baik korporasi maupun perorangan. Jasa perpajakan profesional ini diberikan karena pendiri Pratama Indomitra, Bapak Prianto Budi S., seorang Pemeriksa Pajak di Direktorat Jenderal Pajak dan seorang konsultan profesional yang memegang sertifikat konsultan pajak tingkat C, dan seorang mahasiswa pascasarjana di Universitas Indonesia jurusan ilmu administrasi.
 ## History
