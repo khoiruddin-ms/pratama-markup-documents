@@ -8,7 +8,7 @@
 3. [Assistensi](/Assistance-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S2-Assistance.docx)
 4. [Accounting & Business Advisory](/Accounting-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S3-Accounting.docx)
 5. [TP Doc](/TPDoc-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S4-TPDoc.docx)
-
+6. [GCG & Risk Management](/GCG-RM-ID.md) | 
 ---
 
 # EN - ENGLISH (US)
@@ -17,3 +17,4 @@
 3. [Assistance](/Assistance-EN.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/EN-S2-Assistance.docx)
 4. [Accounting & Business Advisory](/Accounting-EN.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/EN-S3-Accounting.docx)
 5. [TP Doc](/TPDoc-EN.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/EN-S4-TPDoc.docx)
+6. [GCG & Risk Management](/GCG-RM-EN.md) | 
