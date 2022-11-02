@@ -23,10 +23,10 @@ This service covers:
 3. Sustainaibility Reporting (SR)
 > 
 
-## Konsultasi dan Training Risk management Cash Flow and Treasury
+## Compliance & Risk management Cash Flow and Treasury Training
 > Mismanagement of cash and corporate liquid instruments commonly has caused many companies to be illiquid and eventually suffer losses.
 > To obtain success in managing cash flow and treasury management is largely determined by the skills of managers and staff associated with the processes and activities of finance, audit, marketing, human resources, operations, accounting and budget.
 > For this reason, Cash and Treasury is needed to obtain the ability to manage finances and assets effectively and efficiently while improving individual abilities in terms of understanding aspects of financial management by understanding and mastering the ability to analyse cash flow. 
-## Konsultasi dan training Fraud Auditing.
+## Compliance & Fraud Auditing Training.
 > Within the realm of business, sometimes we encounter a variety of possibilities, one of which is the risk of loss due to fraud. Thus, we provide consulting services and fraud auditing training that specifically focuses on providing knowledge in the form of fraud prevention and detection, thereby enabling companies to anticipate and mitigate potential financial fraud. 
 > Losses caused by financial fraud are not something that is desired. For this reason, this service is present by providing the best training in the form of upstream to downstream assistance such as providing assistance and training on what and how types of fraud are currently developing, to the stage of how to conduct proper fraud investigations.
