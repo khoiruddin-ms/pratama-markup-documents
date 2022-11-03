@@ -10,7 +10,7 @@
 > 4. Meningkatkan kontribusi oerusahaan dalam perekonomian nasional; dan
 > 5. Meningkatkan citra Perusahaan yang semakin baik.
 
-## CGC Assesment Service
+## GCG Assesment Service
 > Untuk mengetahui sejauh mana perusahaan dalam menerapkan GCG, dapat dilakuan Assessment Good Corporate Governance secara berkala (setiap tahun buku).
 > Dalam proses asesmen tersebut, terdapat _scoring_, yaitu penilaian terhadap aspek-aspek yang seharusnya diterapkan suatu perusahaan yang menjadi parameter pengajian.
 > Oleh karena itu, melalui assessment tersebut, diharapkan mampu menghasilkan gambaran peta praktik GCG di Perusahaan, yang dapat diperbandingkan dari waktu ke waktu sehingga dapat diketahui hal yang sudah ataupun yang belum dilakukan.

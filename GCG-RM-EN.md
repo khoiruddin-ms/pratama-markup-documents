@@ -10,7 +10,7 @@
 > 4. Increase the Company's contribution to the national economy; and
 > 5. Improving the Company's image that is getting better.
 
-## CGC Assesment Service
+## GCG Assesment Service
 > To understand the extent to which the company implements GCG, a Good Corporate Governance Assessment can be carried out periodically (every financial year).
 > In the assessment process, there is scoring, which evaluates the aspects that should be implemented by a company which becomes the assessment parameter.
 > Therefore, through the assessment, it is expected to be able to produce a map of GCG practices in the Company, which can be compared from time to time so that it can be seen what has or has not been done.
