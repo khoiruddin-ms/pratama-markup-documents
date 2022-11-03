@@ -23,7 +23,7 @@
 > Using the COSO ERM framework approach and AS/NZS 4360, Pratama Indomitra Konsultan also assists companies in conducting risk management and developing risk management frameworks or strategies to automate risk management processes.
 
 #### **Ruang lingkup pekerjaan manajemen risiko mencakup:**
-> 1. Gap and maturity analysis against ISO 31000:2009 or COSO 2004;
+> 1. Gap and maturity analysis towards ISO 31000:2009 or COSO 2004;
 > 2. Development of enterprise risk management framework;
 > 3. Development of risk management policies, standards and guidelines
 > 4. Risk management information system specification, procurement and implementation;
