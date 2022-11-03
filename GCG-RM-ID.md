@@ -3,7 +3,6 @@
 ### Background
 > Masih minimnya pemehaman mengenai tata kelola perusahaan yang baik, menjadikan aspek Good Corporate Governance terlihat inferior. Padahal GCG memegang peranan penting dalam pengelolaan sumber daya perusahaan yang diharapkan proses bisnis dapat menjadi efisien, efektif, ekonomis dan produktif dengan selalu berorientasi pada tujuan perusahaan dan memperhatikan stakeholder approach
 > Bahkan, penerapan GCG, baik pada badan usaha milik negara (BUMN), maupun swasta, adalah senjata yang ampuh bukan saja untuk melawan dan meminimalisir tindakan korupsi, juga dapat menangkal krisis dan memperkuat ketahanan ekonomi nasional
-> GCG memegang peranan penting dalam pengelolaan sumber daya perusahaan yang diharapkan menjadi proses bisnis dapat berjalan efisien, efektif, ekonomis dan produktif dengan selalu berorientasi pada tujuan perusahaan dan memperhatikan stakeholder approach. Selain itu penerapan GCG mampu untuk melawan dan meminimalisir tindakan korupsi, juga dapat menangkal krisis dan memperkuat ketahanan ekonomi nasional
 #### Implementasi GCG memiliki peran penting dalam pengelolaan perusahaan, peran-peran tersebut ialah sebagai berikut:
 > 1. Memaksimalkan nilai perusahaan (corporate value) melalui peningkatan prinsip keterbukaan, akuntabilitas, bertanggung jawab, dan adil agar perusahaan memiliki daya saing yang kuat baik secara nasional maupun internasional;
 > 2. Mendorong pengelolaan perusahaan secara profesional, transparan dan efisien;
