@@ -9,6 +9,8 @@
 4. [Accounting & Business Advisory](/Accounting-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S3-Accounting.docx)
 5. [TP Doc](/TPDoc-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S4-TPDoc.docx)
 6. [GCG & Risk Management](/GCG-RM-ID.md) | 
+7. [KnDC](/KnDC-ID.md)
+
 ---
 
 # EN - ENGLISH (US)
