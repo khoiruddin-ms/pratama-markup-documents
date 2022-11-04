@@ -10,7 +10,8 @@
 5. [TP Doc](/TPDoc-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S4-TPDoc.docx)
 6. [GCG & Risk Management](/GCG-RM-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S5-GCGn-RM.docx)
 7. [KnDC](/KnDC-ID.md)
-8. [TRI (Pratama-Kreston Tax Research Institute)](#readme) _Pending Info_
+8. [TRI (Pratama-Kreston Tax Research Institute)](/TRI-ID.md) _Pending Info_
+9. [Pratama Academy](#readme) _TBA_
 
 ---
 
@@ -22,4 +23,5 @@
 5. [TP Doc](/TPDoc-EN.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/EN-S4-TPDoc.docx)
 6. [GCG & Risk Management](/GCG-RM-EN.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/EN-S5-GCGn-RM.docx)
 7. [KnDC](/KnDC-EN.md)
-8. [TRI (Pratama-Kreston Tax Research Institute)](#readme) _Pending Info_
+8. [TRI (Pratama-Kreston Tax Research Institute)](/TRI-EN.md) _Pending Info_
+9. [Pratama Academy](#readme) _TBA_
