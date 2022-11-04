@@ -6,8 +6,8 @@
 > TRI regularly and continuously provides information on taxation, economics, accounting, and good corporate governance based on academic principles. 
 > TRI's commitment in presenting publications that comply with scientific principles is none other than to present information that has added value to the community through a credible perspective. From this TRI portal, audiences can access various features such as consultations, research outcomes of TRI researchers in scientific journals, opinion articles in the mass media, to thematic and sectoral studies in "The Loophole".
 
-## Visi
-> Pratama-Kreston Tax Research Institute berkomitmen menjadi lembaga penelitian yang andal dan bereputasi internasional di bidang perpajakan, ekonomi, akuntansi, dan good corporate governance dengan menyediakan analisis yang objektif dan akurat, informasi yang aktual, dan ide-ide yang orisinal dan inovatif guna memberikan arah perubahan bagi pembangunan ekonomi berkelanjutan dan berkeadilan.
+## Vision
+> Pratama-Kreston Tax Research Institute aims to be a reliable and internationally reputable research institute in the fields of taxation, economics, accounting, and good corporate governance by providing objective and accurate analysis, actual information, and original and innovative ideas to provide a direction of change for sustainable and equitable economic development.
 
-## Misi
-> Melaksanakan kegiatan penelitian, konsultasi profesional berbasis kompetensi, pelatihan/seminar berbasis pengetahuan di bidang perpajakan, ekonomi, akuntansi, dan good corporate governance dengan tujuan untuk membuka wawasan dan ruang diskusi publik, menghasilkan pikiran-pikiran yang dapat dijadikan rujukan dalam pengambilan keputusan dan pelaksanaan kebijakan publik agar lebih terarah dan terukur.
+## Mision
+> Carries out research activities, competency-based professional consulting, knowledge-based training/seminars in the fields of taxation, economics, accounting, and good corporate governance with the aim of opening up insights and space for public discussion, producing thoughts that can be used as references in decision making and implementation of public policies to be more targeted and measurable.
