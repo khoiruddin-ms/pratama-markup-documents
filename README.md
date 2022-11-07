@@ -11,7 +11,7 @@
 6. [GCG & Risk Management](/GCG-RM-ID.md) | [DOCX/Word Files](https://raw.githubusercontent.com/khoiruddin-ms/pratama-markup-documents/main/docs/ID-S5-GCGn-RM.docx)
 7. [KnDC](/KnDC-ID.md)
 8. [TRI (Pratama-Kreston Tax Research Institute)](/TRI-ID.md)
-9. [Pratama Academy](#readme) (_TBA_)
+9. [Pratama Academy](/Academy-ID.md) (_TBA_)
 
 ---
 
