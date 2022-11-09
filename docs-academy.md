@@ -1,10 +1,29 @@
 # Academy
-### Find Course
-> ### Search and Discover
-> Discover, find, and compare. Discover hundred of courses that meets your preference. Search training program that easy to understand. Incriease your employability, save time and money! No Deadlines!
-> ### Watch, Listen!
-> Videos are great! We create beautiful videos to share our passion for knowledge. We value quality over quantity, always.
-> ### Assigments
-> Challenge yourself, take the assigment, and discover your nature!
-> ### Get Certified
-> Every courses grants the certification. Complete the learning modules and get the certificates.
+## 4 Kotak atas kiri ke kanan
+### Explore
+> Discover, find, and learn. Our training courses are certified by experts! advance your career, get a degree and overcome your knowledge.
+### The Archive
+> Get touch with our archive! get thousand of learning material that can be accessed, watched anytime, anywhere.
+### No-Limit
+> There is no limit to the courses you can access, learned, try our offline training program and get realtime assigments and rating.
+### Professional Certificates
+> Increase your employability with our certificate. Complete the training moduled and get certified.
+
+---
+
+## Our Top Course
+> Learn without limits, try our offline training too! There's a free webinar too every weeks.
+
+---
+================================ END HERE
+## Why Choose Us => Why Pratama Academy?
+> Hosted by Pratama-Kreston Tax Research Institute, a reliable and internationally reputable research institute in the fields of taxation, economics, accounting, and good corporate governance
+- [Icon Buku] **Lifetime Access**
+    - Join once and get lifetime access of learning materials. One for all for online training
+- [icon orang] **Expert Trainer**
+    - 
+
+
+Intruktur - terpercaya, tersetifikasi, dan berpengalaman expert dibidangnya
+Biaya Terjangkau - 
+Access Lifetime - 

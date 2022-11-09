@@ -1,7 +1,7 @@
 [Indonesia](/TPDoc-ID.md)
 # Transfer Pricing Documentation (TP Doc)
 ## Background
-> This Transfer Pricing Documentation drafting service including TP Doc Drafting Strategy is intended to assist clients in dealing with Transfer Pricing. Further, it provides input on the documents and strategies required to prevent losses from related party transactions and transfer pricing scenarios.
+> Transfer Pricing Documentation drafting service including TP Doc Drafting Strategy is intended to assist clients in dealing with Transfer Pricing. Further, it provides input on the documents and strategies required to prevent losses from related party transactions and transfer pricing scenarios.
 
 ## Benchmarking Analysis 
 > Ensure that each transaction reviewed is supported by appropriate documents or agreements and that it complies with the fair value principle. This service is performed by selecting comparable transactions or companies with consideration of data quality, assumptions, and comparable factors, then selecting economically and statistically appropriate methods, profit rate indicators, and appropriate adjustment calculations. The final step is to review the availability and adequacy of supporting documents held by the Company.
