@@ -12,7 +12,7 @@
 ---
 
 ## Our Top Course
-> Learn without limits, try our offline training too! There's a free webinar too every weeks.
+> Learn without limits, try our offline training too! Free webinar every weeks.
 
 ---
 ================================ END HERE
