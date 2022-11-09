@@ -15,7 +15,7 @@
 > Learn without limits, try our offline training too! Free webinar every weeks.
 
 ---
-================================ END HERE
+
 ## Why Choose Us => Why Pratama Academy?
 > Hosted by Pratama-Kreston Tax Research Institute, a reliable and internationally reputable research institute in the fields of taxation, economics, accounting, and good corporate governance
 - [Icon Buku] **Lifetime Access**
@@ -23,4 +23,13 @@
 - [icon orang] **Professional Trainers**
     - Licensed Trainers from Pratama Indomitra Konsultant.
 - [icon uang] **Affordable**
-    - Save money! All professional courses are affordable, get a high quality courses with affordable prices!
+    - Save money! All professional courses are at affordable prices, get a high quality courses with affordable prices!
+
+---
+
+================================ END HERE
+
+---
+
+## Get Skills and Abilities! Reveal a Golden Opportunity!
+> A person can change, at the moment when the person wishes to change. If you don’t take risks, you can’t create a future! A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own.
