@@ -20,10 +20,7 @@
 > Hosted by Pratama-Kreston Tax Research Institute, a reliable and internationally reputable research institute in the fields of taxation, economics, accounting, and good corporate governance
 - [Icon Buku] **Lifetime Access**
     - Join once and get lifetime access of learning materials. One for all for online training
-- [icon orang] **Expert Trainer**
-    - 
-
-
-Intruktur - terpercaya, tersetifikasi, dan berpengalaman expert dibidangnya
-Biaya Terjangkau - 
-Access Lifetime - 
+- [icon orang] **Professional Trainers**
+    - Licensed Trainers from Pratama Indomitra Konsultant.
+- [icon uang] **Affordable**
+    - Save money! All professional courses are affordable, get a high quality courses with affordable prices!
