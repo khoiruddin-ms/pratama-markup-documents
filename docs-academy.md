@@ -37,9 +37,12 @@
 
 ---
 ISO 27001
-## About US
-### Why Choose US
-> 
+
 ## Footer About US
+> 
+
+## About US
+> Pratama Academy is a training platform provided by Pratama Indomitra Konsultan. A training platform that not only provides online training but also offline training, in-house training, bootcamp, along with video materials and learning archives that can be accessed by the community.
+### Why Choose US
 > 
 ## Intruktur
