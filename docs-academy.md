@@ -39,7 +39,7 @@
 ISO 27001
 
 ## Footer About US
-> 
+> Introduced by Pratama Indomitra Konsultant, aims to integrate the training programs provided by Pratama Tax Research Institute as well as trainings often conducted by Pratama's KnDC (Knowledge and Development Centre). As well as introducing the available training programs to the public.
 
 ## About US
 > Pratama Academy is a training platform provided by Pratama Indomitra Konsultan. A training platform that not only provides online training but also offline training, in-house training, bootcamp, along with video materials and learning archives that can be accessed by the community.
