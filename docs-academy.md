@@ -27,9 +27,5 @@
 
 ---
 
-================================ END HERE
-
----
-
 ## Get Skills and Abilities! Reveal a Golden Opportunity!
-> A person can change, at the moment when the person wishes to change. If you don’t take risks, you can’t create a future! A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own.
+> Anyone who keeps learning stays young. Learn as if you were not reaching your goal and as though you were scared of missing it. Wisdom… comes not from age, but from education and learning.
