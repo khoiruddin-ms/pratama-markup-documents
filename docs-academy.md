@@ -21,7 +21,7 @@
 - [Icon Buku] **Lifetime Access**
     - Join once and get lifetime access of learning materials. One for all for online training
 - [icon orang] **Professional Trainers**
-    - Licensed Trainers from Pratama Indomitra Konsultant.
+    - Licensed Trainers from Pratama Indomitra Konsultant. All trainders are certified and trustworthy trainer with great achievement.
 - [icon uang] **Affordable**
     - Save money! All professional courses are at affordable prices, get a high quality courses with affordable prices!
 
@@ -29,3 +29,17 @@
 
 ## Get Skills and Abilities! Reveal a Golden Opportunity!
 > Anyone who keeps learning stays young. Learn as if you were not reaching your goal and as though you were scared of missing it. Wisdom… comes not from age, but from education and learning.
+
+---
+
+## Course Category
+> Discover the world of knowledge we provide
+
+---
+ISO 27001
+## About US
+### Why Choose US
+> 
+## Footer About US
+> 
+## Intruktur
